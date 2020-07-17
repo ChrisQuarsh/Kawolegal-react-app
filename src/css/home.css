@@ -1,0 +1,59 @@
+.home-page{
+	background-image: url(../Images/damir-kopezhanov-luseu9GtYzM-unsplash.jpg);
+	background-size: cover;
+	overflow: hidden;
+}
+.navbar-home .navbar-brand{
+	font-size: 3rem;
+}
+
+a {
+    color: #fff;
+}
+
+.container-fluid-home {
+    padding: 10px 15px;
+    margin-top: 20px;
+    font-size: 2rem;
+}
+
+
+
+.body-info{
+	color: white;
+	margin-top: 150px;
+	font-size: 3rem;
+	width: 800px;
+	margin-left: 300px;
+}
+
+.btn-default {
+    color: white;
+    background-color: #71b7d3;
+    padding: 8px 30px;
+    margin-top: 10px;
+    font-size: 2rem;
+    border-radius: 6px;
+    border-color: #71b7d3;
+}
+
+h1{
+	font-size: 6rem;
+}
+
+.line-on-footer{
+	height: 15px;
+	background-color: white;
+	margin-bottom: 0px;
+}
+
+footer{
+	background-color: #240f0f;
+	color: white;
+	height: 50px;
+	padding: 1.5rem 0;
+}
+
+.main-footer{
+	margin-top: 500px;
+}

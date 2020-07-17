@@ -1,0 +1,16 @@
+
+
+
+.navbar-home .navbar-brand{
+	font-size: 3rem;
+}
+
+a {
+    color: #fff;
+}
+
+.container-fluid-home {
+    padding: 10px 15px;
+    margin-top: 20px;
+    font-size: 2rem;
+}
