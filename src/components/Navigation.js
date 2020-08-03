@@ -9,7 +9,7 @@ const Navigation = () => {
               <div className="container-fluid-home">
                   <div className="navbar-header">
     
-                    <a className="navbar-brand" href="#">KAWOLEGAL</a>
+                    <a className="navbar-brand">KAWOLEGAL</a>
                   </div>
 	                <ul className="nav navbar-nav navbar-right">
                   <li><NavLink to="/"><b>Home</b> </NavLink></li>

@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/register.css';
-import {NavLink} from "react-router-dom";
+
 
 const Register = props => {
     return(

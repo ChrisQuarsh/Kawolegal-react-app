@@ -1,7 +1,6 @@
 import React from 'react';
 import '../css/startup.css';
 import laptop from '../Images/c.jpg';
-import {NavLink} from "react-router-dom";
 
 
 const Startup = props => {
@@ -18,7 +17,7 @@ const Startup = props => {
  	<div className="row">
  		<div className="col-md-10 col-md-offset-1">
  		<div className="col-md-2">
- 			 <a href="#" className="thumbnail">
+ 			 <a className="thumbnail">
       		<img src={laptop} />
     </a>	
  		</div>
@@ -36,7 +35,7 @@ const Startup = props => {
  	<div className="row">
  		<div className="col-md-10 col-md-offset-1">
  		<div className="col-md-2">
- 			 <a href="#" className="thumbnail">
+ 			 <a className="thumbnail">
 			  <img src={laptop} />
     </a>	
  		</div>
@@ -54,7 +53,7 @@ const Startup = props => {
  	<div className="row">
  		<div className="col-md-10 col-md-offset-1">
  		<div className="col-md-2">
- 			 <a href="#" className="thumbnail">
+ 			 <a className="thumbnail">
 			  <img src={laptop} />
     </a>	
  		</div>
